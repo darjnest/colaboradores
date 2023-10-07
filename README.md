@@ -12,5 +12,6 @@ Recibí y acepté las pull requests de los siguiente compañero:
 
 - [Jonathan Lopez] ((https://github.com/burgosuc/desafio_react2)) 
 - 1 commit para actualizar el Readme 
+- 2 commit se agrego un icon en la Url.
 
 # Base-datos-colaboradores
