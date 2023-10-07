@@ -45,7 +45,7 @@ export default function Formulario({ addAlert, setData, data, setDataFilter, dat
     ) {
       addAlert({
         texto: 'Debes completar todos los campos',
-        tipo: 'alert-danger',
+        tipo: 'alert-warning',
         estado: true,
       });
     } else if (!regexEmail.test(datosColaborador.correo)) {
